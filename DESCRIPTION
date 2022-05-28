@@ -1,0 +1,15 @@
+Package: alluvialplots
+Title: Alluvial plots using ggplot2
+Version: 0.1.0
+Authors@R: person(given = "Joshua",
+           family = "Fjelstul",
+           role = c("aut", "cre"),
+           email = "joshfjelstul@gmail.com",
+           comment = c(ORCID = "0000-0002-9494-260X"))
+Description: This package includes a function for making alluvial flow plots using ggplot.
+URL: https://github.com/jfjelstul/alluvialplots
+Date: 2022-01-02
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
